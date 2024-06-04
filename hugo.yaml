@@ -2,3 +2,39 @@ baseURL: https://example.org/
 languageCode: en-us
 title: gina cairney
 theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
+
+  socialIcons: # optional
+    - name: "twitter"
+      url: "https://x.com/ginamc"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/gmcairney/"
+    - name: "medium"
+      url: "https://medium.com/@postsbygina"
+    - name: "github"
+      url: "https://github.com/ginamc"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: example
+      name: example.org
+      url: https://example.org
+      weight: 30

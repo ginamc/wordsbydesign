@@ -7,5 +7,12 @@
     <generator>Hugo -- 0.126.3</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/</guid>
+      <description>. ├── config.yml ├── content/ │ ├── archives.md &amp;lt;&amp;mdash; Create archive.md here │ └── posts/ ├── static/ └── themes/ └── PaperMod/ title: &amp;ldquo;Archive&amp;rdquo; layout: &amp;ldquo;archives&amp;rdquo; url: &amp;ldquo;/archives/&amp;rdquo; summary: archives </description>
+    </item>
   </channel>
 </rss>
