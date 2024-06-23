@@ -9,6 +9,7 @@ params:
     author: Gina
     ShowReadingTime: true
     ShowShareButtons: true
+    ShareButtons: ["linkedin", "twitter"]
     ShowPostNavLinks: true
 tags:
 - collaboration
