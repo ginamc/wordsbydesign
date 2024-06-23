@@ -1,19 +1,10 @@
 ---
 title: "How a content designer collaborates with a product designer"
-summary: "There's no right way to do it but maybe this will help."
 date: 2023-09-26
 draft: false
 ShowToc: false
-params:
-    author: Gina
-tags:
-- collaboration
-
 ---
 _There's no right way to do it but maybe this will help._
-
-![Photo by UX Indonesia on Unsplash](https://images.unsplash.com/photo-1586936893354-362ad6ae47ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzfHx1c2VyJTIwZXhwZXJpZW5jZXxlbnwwfHx8fDE2OTU1ODg5OTl8MA&ixlib=rb-4.0.3&q=80&w=1080)
-_(Photo by UX Indonesia on Unsplash)_
 
 The benefits of content and product design collaboration are no secret. Many words have been shared on Medium and Substack about why collaboration is important but few speak to the mechanics. Maybe it's because there's no right way to do it. It's hard to talk about something without being prescriptive because people generally want to be told how to do something. Nevertheless, having examples of how to collaborate might help shed light on the ways content and product designers' roles overlap. Here's how I collaborate with one of my product design colleagues, Sam (not her real name), with whom I have a very great relationship.
 
@@ -24,9 +15,6 @@ Again, there's no _right_ way to do this. There are factors at play that encoura
 I'm a content designer at a company that provides SaaS in the events and hospitality industry. I'm embedded in a team of product designers and provide consulting to other UX teams that lack a designated content designer. As you can imagine, that's a lot of personalities. It's a lot of different team subcultures, different team practices, and so on.
 
 You can't brute force great collaboration but you can encourage some contented form of it.
-
-![Hand-drawn screens for a mobile app. Photo by Amélie Mourichon on Unsplash](https://images.unsplash.com/photo-1576153192396-180ecef2a715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzMTN8fGNvbnRlbnQlMjBkZXNpZ258ZW58MHx8fHwxNjk1NTg4MDI1fDA&ixlib=rb-4.0.3&q=80&w=1080)
-_(Photo by Amélie Mourichon on Unsplash)_
 
 # Is It Luck?
 
@@ -62,9 +50,6 @@ I observe product designers go straight for the jugular of solving the problem. 
 Tapping into OOUX, we do quick and dirty outlines of our primary objects, user roles, and actions. We then talk about the relationships between everything, sometimes mapping it out with arrows on more complex workflows. This helps us have a clearer picture of what the things are, and how a user interacts with that thing.
 
 We also prioritize information and identify what's absolutely necessary and what's auxiliary. We talk about why a label works or doesn't work. We discuss the implications of specific terminology and check for audience fit. We borderline get philosophical. We have disagreements and argue with each other about design decisions--visual and content. It all leads to a near-harmonious working relationship that's resulted in many great designs.
-
-![Skittles of sticky notes on a wall that shows some kind of affinity mapping. Photo by Hugo Rocha on Unsplash](https://images.unsplash.com/photo-1568219557405-376e23e4f7cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxM3x8dXglMjBkZXNpZ258ZW58MHx8fHwxNjk1NTg4NjYxfDA&ixlib=rb-4.0.3&q=80&w=1080)
-_(Photo by Hugo Rocha on Unsplash)_
 
 # Trust
 
