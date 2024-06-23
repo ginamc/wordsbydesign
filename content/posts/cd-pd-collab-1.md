@@ -1,8 +1,15 @@
 ---
 title: "How a content designer collaborates with a product designer"
+summary: "There's no right way to do it but maybe this will help."
 date: 2023-09-26
 draft: false
-ShowToc: false
+ShowToc: true
+params:
+    author: gina
+tags:
+- collaboration
+slug: cd-pd-collab-1
+
 ---
 _There's no right way to do it but maybe this will help._
 
