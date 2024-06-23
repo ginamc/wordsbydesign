@@ -32,7 +32,7 @@ menu:
       url: /
       weight: 10
     - identifier: posts
-      name: Blog
+      name: Posts
       url: /posts/
       weight: 20
     - identifier: tags
