@@ -2,8 +2,9 @@
 title: "How a content designer collaborates with a product designer"
 summary: "There's no right way to do it but maybe this will help."
 date: 2023-09-26
+slug: content-product-design-collab
 draft: false
-ShowToc: false
+ShowToc: true
 params:
     author: Gina
 tags:
