@@ -8,7 +8,6 @@ params:
     author: gina
 tags:
 - collaboration
-slug: cd-pd-collab-1
 
 ---
 _There's no right way to do it but maybe this will help._
