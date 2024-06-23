@@ -4,6 +4,7 @@ title: gina cairney
 theme: ["PaperMod"]
 
 params:
+  defaultTheme: dark
   homeInfoParams:
     Title: Hi there wave
     Content: Can be Info, links, about...
