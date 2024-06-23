@@ -12,17 +12,19 @@ params:
     ShowPostNavLinks: true
 tags:
 - collaboration
-cover:
-  image: "https://images.unsplash.com/photo-1586936893354-362ad6ae47ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzfHx1c2VyJTIwZXhwZXJpZW5jZXxlbnwwfHx8fDE2OTU1ODg5OTl8MA&ixlib=rb-4.0.3&q=80&w=1080"
+# cover:
+  # image: "https://images.unsplash.com/photo-1586936893354-362ad6ae47ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzfHx1c2VyJTIwZXhwZXJpZW5jZXxlbnwwfHx8fDE2OTU1ODg5OTl8MA&ixlib=rb-4.0.3&q=80&w=1080"
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-  alt: "Photo by UX Indonesia on Unsplash"
-  caption: "Photo by UX Indonesia on Unsplash"
-  relative: false # To use relative path for cover image, used in hugo Page-bundles
+  # alt: "Photo by UX Indonesia on Unsplash"
+  # caption: "Photo by UX Indonesia on Unsplash"
+  # relative: false # To use relative path for cover image, used in hugo Page-bundles
 
 
 ---
 _There's no right way to do it but maybe this will help._
+
+![Photo by UX Indonesia on Unsplash](https://images.unsplash.com/photo-1586936893354-362ad6ae47ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzfHx1c2VyJTIwZXhwZXJpZW5jZXxlbnwwfHx8fDE2OTU1ODg5OTl8MA&ixlib=rb-4.0.3&q=80&w=1080)
 
 The benefits of content and product design collaboration are no secret. Many words have been shared on Medium and Substack about why collaboration is important but few speak to the mechanics. Maybe it's because there's no right way to do it. It's hard to talk about something without being prescriptive because people generally want to be told how to do something. Nevertheless, having examples of how to collaborate might help shed light on the ways content and product designers' roles overlap. Here's how I collaborate with one of my product design colleagues, Sam (not her real name), with whom I have a very great relationship.
 
