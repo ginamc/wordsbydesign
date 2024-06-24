@@ -15,5 +15,33 @@
       <guid>http://localhost:1313/tags/collaboration/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Content Design</title>
+      <link>http://localhost:1313/tags/content-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/content-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learnings</title>
+      <link>http://localhost:1313/tags/learnings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/learnings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/tags/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/introduction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ux</title>
+      <link>http://localhost:1313/tags/ux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ux/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

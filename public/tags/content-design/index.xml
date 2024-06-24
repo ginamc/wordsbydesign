@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/posts/learnings-year-one-content-design/</guid>
       <description>It’s been one year since I started my role as a UX content designer. Here are some quick things I learned about searching for a new role, what content design entails, and more.</description>
     </item>
+    <item>
+      <title>Hello, World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>A quick introduction of yours truly.</description>
+    </item>
   </channel>
 </rss>
