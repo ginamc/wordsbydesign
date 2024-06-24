@@ -8,7 +8,10 @@ params:
   disableThemeToggle: true
   homeInfoParams:
     Title: Hi there wave
-    Content: Can be Info, links, about...
+    Content: Can be Info, links, about... 
+  mainSections:
+    # - posts
+    - projects
 
   socialIcons: # optional
     - name: "twitter"
@@ -44,3 +47,24 @@ menu:
       name: Search
       url: /search/
       weight: 40
+
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: true # <- this enables HTML rendering
+      xhtml: false
