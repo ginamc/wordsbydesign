@@ -10,8 +10,8 @@ params:
     Title: Hi there wave
     Content: Can be Info, links, about... 
   mainSections:
-    # - posts
-    - projects
+    - posts
+    #- projects
 
   socialIcons: # optional
     - name: "twitter"
@@ -52,6 +52,11 @@ markup:
   goldmark:
     extensions:
       definitionList: true
+      extras:
+        subscript:
+          enable: true
+        superscript:
+          enable: true
       footnote: true
       linkify: true
       strikethrough: true

@@ -53,12 +53,12 @@ Alternative education routes were all the rage during the pandemic. It was like 
 Cost was a major factor in what I ultimately decided. And time. I was working a full-time job that paid an okay salary but wasn't enough to afford a multi-week, cohort-type program like General Assembly or Springboard. I also had enough debt on my plate that I didn't want to add to it if I didn't have to. Lots of decisions to be made.
 
 ![Udacity's "Become a UX Designer" nanodegree landing page](https://photos.smugmug.com/photos/i-qPK5mpb/0/CfJgXSQhkTJtfqLHqJN7Jkn9xGBpqx27JNQx755vB/X3/i-qPK5mpb-X3.jpg)
-_(Udacity's "Become a UX Designer" nanodegree landing page)_
+<small>_(Udacity's "Become a UX Designer" nanodegree landing page)_</small>
 
 I went with this because I did their Front-End nanodegree a year prior and was satisfied with that so I figured the experience would be similar. At the time I enrolled, they were running a multi-month deal.
 
 ![Parsons x Yellowbrick’s UX Design Foundations landing page](https://photos.smugmug.com/photos/i-dzhPKpj/0/DBwXpqGSmvfMk3X8Kb8HdFtk2VQKNrtkpbxZsbBw6/X3/i-dzhPKpj-X3.jpg)
-_(Parsons x Yellowbrick’s UX Design Foundations landing page)_
+<small>_(Parsons x Yellowbrick’s UX Design Foundations landing page)_</small>
 
 I enrolled in this program a few months after the Udacity ND because the content was slightly different, and I got a half scholarship that made it affordable.
 
@@ -73,7 +73,7 @@ While I learned how to create design systems, wireframes, prototypes, surveys, a
 As I continued to work through the certifications, I changed my tactic for the portfolio. Design was still important but because I didn’t have product design to showcase, I used what I had to highlight _my process in content design_. This included examples of web pages I helped lay out, information architecture and the site-map, and e-blasts I designed, along with content I wrote and why I made specific decisions. (I’ll write more about specifics in another post. If you have specific questions about this, let me know.)
 
 ![A snippet of my portfolio homepage, circa 2021](https://photos.smugmug.com/photos/i-GsjHqFM/0/CdcHxTbzxVkcdLKHDNK32Kcc9bSbrJRBdpgb4677Z/O/i-GsjHqFM.jpg)
-_(A snippet of my portfolio homepage, circa 2021)_
+<small>_(A snippet of my portfolio homepage, circa 2021)_</small>
 
 My portfolio was simple on purpose. I picked the top three projects I was really proud of that I thought showcased my ability to _think_ design and execute strategically, while also thinking through language, voice, tone, and all the other wordy things that live in the content realm.
 
@@ -93,4 +93,4 @@ For most of the companies I applied, I received an initial interview. I moved to
 
 I accepted and started my new role in UX as a content designer in December 2021—six months ahead of my own schedule.
 
--30-
+<small>-30-</small>
