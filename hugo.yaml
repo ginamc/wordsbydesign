@@ -7,8 +7,8 @@ params:
   defaultTheme: dark
   disableThemeToggle: true
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about... 
+    Title: Hi, hello.
+    Content: Welcome and thanks for visiting. My name is Gina. I’m a content designer, writer, and strategist. I’m here to explore UX-related topics from writing to philosophical musings about UX. I’ll also be sharing resources I find worth sharing so that we can all learn together.
   mainSections:
     - posts
     #- projects
