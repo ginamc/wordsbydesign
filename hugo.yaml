@@ -1,6 +1,6 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: gina cairney
+title: # Words by Design
 theme: ["PaperMod"]
 
 params:
@@ -34,14 +34,14 @@ menu:
     - identifier: home
       name: Home
       url: /
-      weight: 10
-    - identifier: posts
-      name: Posts
-      url: /posts/
-      weight: 20
+      weight: 10   
     - identifier: tags
       name: Tags
       url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archive
+      url: /archives/
       weight: 30
     - identifier: search
       name: Search
