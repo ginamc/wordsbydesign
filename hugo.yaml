@@ -47,6 +47,10 @@ menu:
       name: Search
       url: /search/
       weight: 40
+    - identifier: portfolio
+      name: Portfolio
+      url: https://ginamc.github.io
+      weight: 50
 
 markup:
   goldmark:
