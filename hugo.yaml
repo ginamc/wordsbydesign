@@ -1,6 +1,6 @@
 baseURL: https://ginamc.github.io/wordsbydesign/
 languageCode: en-us
-title: A blog by gina
+title: Words by Design ✏
 theme: ["PaperMod"]
 
 params:
