@@ -11,14 +11,12 @@ params:
     Content: Welcome and thanks for visiting. My name is Gina. I’m a content designer, writer, and strategist. I’m here to explore UX-related topics from writing to philosophical musings about UX. I’ll also be sharing resources I find worth sharing so that we can all learn together.
   mainSections:
     - posts
-  
   assets:
-    favicon: /favicon.ico
-    favicon16x16: /favicon-16x16.png
-    favicon32x32: /favicon-32x32.png
-    apple_touch_icon: /apple-touch-icon.png
-    safari_pinned_tab: /safari-pinned-tab.svg
-
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
   socialIcons: # optional
     - name: "twitter"
       url: "https://x.com/ginamc"
