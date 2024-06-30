@@ -35,6 +35,9 @@ outputs:
     - RSS
     - JSON # necessary for search
 
+pagination:
+  pagerSize: 5
+
 menu:
   main:
     - identifier: home
