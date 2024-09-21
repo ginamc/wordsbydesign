@@ -52,10 +52,14 @@ menu:
       name: Archive
       url: /archives/
       weight: 30
+    - identifier: subscribe
+      name: Subscribe
+      url: https://wbd.pikapod.net/subscription/form
+      weight: 40
     - identifier: search
       name: Search
       url: /search/
-      weight: 40
+      weight: 50
 
 markup:
   goldmark:
