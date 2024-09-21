@@ -54,7 +54,7 @@ menu:
       weight: 30
     - identifier: subscribe
       name: Subscribe
-      url: https://wbd.pikapod.net/subscription/form
+      url: /subscribe/
       weight: 40
     - identifier: search
       name: Search
