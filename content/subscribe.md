@@ -1,3 +1,8 @@
+---
+title: "Subscribe"
+date: 
+---
+
 <head>
 <style>
     input[type="email"],
@@ -21,7 +26,7 @@
 <body>
 <form method="post" action="https://wbd.pikapod.net/subscription/form" class="listmonk-form">
           <div>
-          <h3>Subscribe</h3>
+          <!--<h3>Subscribe</h3> redundant with page title -->
           <span>A UX content designer's learnings and musings straight to your inbox.</span>
           <p></p>
           <input type="hidden" name="nonce" />

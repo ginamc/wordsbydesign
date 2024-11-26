@@ -1,0 +1,88 @@
+baseURL: https://wordsbydesign.co
+languageCode: en-us
+title: Words by Design ✏
+theme: ["hugo-winston-theme"]
+
+params:
+  defaultTheme: dark
+  disableThemeToggle: false
+  homeInfoParams:
+    Title: Hi, hello.
+    Content: Welcome and thanks for visiting. My name is Gina. I’m a content designer, writer, and strategist. I’m here to explore UX-related topics from writing to philosophical musings about UX. I’ll also be sharing resources I find worth sharing so that we can all learn together.
+  mainSections:
+    - posts
+  
+  assets:
+    favicon: "assets/favicon.ico"
+    favicon16x16: "assets/favicon-16x16.png"
+    favicon32x32: "assets/favicon-32x32.png"
+    apple_touch_icon: "assets/apple-touch-icon.png"
+    safari_pinned_tab: "assets/safari-pinned-tab.svg"
+  
+  socialIcons: # optional
+    - name: "twitter"
+      url: "https://x.com/ginamc"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/gmcairney/"
+    - name: "medium"
+      url: "https://medium.com/@postsbygina"
+    - name: "github"
+      url: "https://github.com/ginamc"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+pagination:
+  pagerSize: 5
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10   
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archive
+      url: /archives/
+      weight: 30
+    - identifier: subscribe
+      name: Subscribe
+      url: /subscribe/
+      weight: 40
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 50
+
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      extras:
+        subscript:
+          enable: true
+        superscript:
+          enable: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: true # <- this enables HTML rendering
+      xhtml: falsetheme = 'hugo-winston-theme'
