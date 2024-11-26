@@ -1,7 +1,7 @@
 baseURL: https://wordsbydesign.co
 languageCode: en-us
 title: Words by Design ✏
-theme: ["hugo-winston-theme"]
+theme: ["PaperMod"]
 
 params:
   defaultTheme: dark
@@ -56,10 +56,6 @@ menu:
       name: Subscribe
       url: /subscribe/
       weight: 40
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 50
 
 markup:
   goldmark:
@@ -85,4 +81,4 @@ markup:
     renderer:
       hardWraps: false
       unsafe: true # <- this enables HTML rendering
-      xhtml: falsetheme = 'hugo-winston-theme'
+
