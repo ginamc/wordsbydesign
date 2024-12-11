@@ -3,7 +3,7 @@ title: "How a content designer collaborates in Figma"
 summary: "What does it look like for content and product designer to work together?"
 date: 2024-12-10
 slug: wbd-collabfigma_5
-draft: false
+draft: true
 ShowToc: true
 params:
     author: Gina
