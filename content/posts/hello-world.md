@@ -9,7 +9,7 @@ params:
     author: Gina
     ShowReadingTime: true
     ShowShareButtons: true
-    ShareButtons: ["linkedin", "x"]
+    ShareButtons: ["reddit", "linkedin", "x", "whatsapp"]
     ShowPostNavLinks: true
 tags:
 - introduction

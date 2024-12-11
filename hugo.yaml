@@ -11,6 +11,8 @@ params:
     Content: Welcome and thanks for visiting. My name is Gina. I’m a content designer, writer, and strategist. I’m here to explore UX-related topics from writing to philosophical musings about UX. I’ll also be sharing resources I find worth sharing so that we can all learn together.
   mainSections:
     - posts
+  showShareButtons: true
+  ShareButtons: ["linkedin", "reddit", "x", "whatsapp"]
   
   assets:
     favicon: "assets/favicon.ico"
