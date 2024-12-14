@@ -1,20 +1,21 @@
 ---
 title: "How a content designer collaborates in Figma"
 summary: "What does it look like for content and product designer to work together?"
-date: 2024-12-10
-slug: wbd-collabfigma_5
-draft: true
+date: 2024-12-14
+slug: content-collab-figma
+draft: false
 ShowToc: true
 params:
     author: Gina
     ShowReadingTime: false
     ShowShareButtons: true
-    ShareButtons: ["linkedin", "reddit", "x", "whatsapp"]
+    ShareButtons: ["linkedin", "reddit", "x"]
     ShowPostNavLinks: true
 tags:
 - collaboration
 - content design
 - figma
+- template
 # cover:
   # image: "https://images.unsplash.com/photo-1586936893354-362ad6ae47ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzfHx1c2VyJTIwZXhwZXJpZW5jZXxlbnwwfHx8fDE2OTU1ODg5OTl8MA&ixlib=rb-4.0.3&q=80&w=1080"
   # can also paste direct link from external site
@@ -25,75 +26,94 @@ tags:
 
 
 ---
-_There's no right way to do it but maybe this will help._
+_What I describe here isn't a rigid process, nor is it a set of rules that I believe should be followed. It is, rather, a way of working that might help you collaborate better with your product design colleagues (or anyone, really)._
 
-![Photo by UX Indonesia on Unsplash](https://images.unsplash.com/photo-1586936893354-362ad6ae47ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzfHx1c2VyJTIwZXhwZXJpZW5jZXxlbnwwfHx8fDE2OTU1ODg5OTl8MA&ixlib=rb-4.0.3&q=80&w=1080)
+What does it look like for content and product designer to work together? I'm going to share with you how I—a content designer—work in Figma with my product designers.
 
-The benefits of content and product design collaboration are no secret. Many words have been shared on Medium and Substack about why collaboration is important but few speak to the mechanics. Maybe it's because there's no right way to do it. It's hard to talk about something without being prescriptive because people generally want to be told how to do something. Nevertheless, having examples of how to collaborate might help shed light on the ways content and product designers' roles overlap. Here's how I collaborate with one of my product design colleagues, Sam (not her real name), with whom I have a very great relationship.
+## Set Boundaries
 
-Again, there's no _right_ way to do this. There are factors at play that encourage collaborative flourishing or collaborative tolerance.
+Who you work with will determine the shared space you get in the design file.
 
-# Who am I?
+Before I jump into a file for the first time, I'll ask my design colleagues if I can directly edit their files. If they say no, we decide how best to move forward with our work. By creating these boundaries I'm establishing trust and respect for both of us. This mutual deference to our practice areas allows us to collaborate more effectively and efficiently. 
 
-I'm a content designer at a company that provides SaaS in the events and hospitality industry. I'm embedded in a team of product designers and provide consulting to other UX teams that lack a designated content designer. As you can imagine, that's a lot of personalities. It's a lot of different team subcultures, different team practices, and so on.
+## Content by Comments
 
-You can't brute force great collaboration but you can encourage some contented form of it.
+Figma's comment feature is the obvious choice if you don't get edit permissions or if you decide you don't need anything more elaborate. Dropping comments throughout the file is a quick way to leave notes, questions, decisions, and sometimes even a few text iterations.
 
-![Hand-drawn screens for a mobile app. Photo by Amélie Mourichon on Unsplash](https://images.unsplash.com/photo-1576153192396-180ecef2a715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzMTN8fGNvbnRlbnQlMjBkZXNpZ258ZW58MHx8fHwxNjk1NTg4MDI1fDA&ixlib=rb-4.0.3&q=80&w=1080)
-_(Photo by Amélie Mourichon on Unsplash)_
+![Figma frames with comment peppered in it](https://photos.smugmug.com/photos/i-zRXCcvz/0/NNFKnKKwBrzRH8gt8qntpG3FsfQBsJNRQLTvmmsMn/O/i-zRXCcvz.png) <small>_All the comments_</small>
 
-# Is It Luck?
+Everyone works differently and this mode of working suits some but not others. 
 
-Maybe. But personalities matter. A lot. It sounds too simple but really, you click or you clash. It's a fact of work life (and elsewhere). Sam and I just so happen to click. Very well. So much so that we often joke about being separated at birth.
+For myself, the comments have their drawbacks. The space you're allotted in the comment box is inadequate for extensive content explorations. Comments also tend to float unattached to designs—a problem when frames move around or are deleted. 
 
-Everything is easier when you gel with someone. Sam and I enjoy each other's company despite living on opposite coasts as fully remote employees. We meet regularly for 1:1s and design sessions. Some are scheduled, others are ad-hoc. We confide in each other. We lean on each other as a resource. And it has served us both really, really well. I've been told our level of content-product collaboration is an outlier.
+The linear structure of comments is also prone to misunderstandings because you can't reply directly to the relevant comment. This means you could have two or even three threads happening in the same comment box, or you create a comment for each thread. 
 
-Of course, it's not just luck. You can't _will_ great collaboration into existence. It does take some effort and time to build that relationship, even if you're like long-lost siblings.
+I've also run into the problem of disappearing comments.
 
-# Establish the Relationship
+Well, comments don't really "disappear" unless they're deleted; but once they're marked as resolved or if there are lots of comments in the file, sifting through them becomes a time sink. Comments are also easily missed and ignored. In spite of my own attempts to keep track of them, I occasionally find that there are unanswered comments from 12 or 30 days ago. By that point you don't really remember what it was all about.
 
-This is obvious but people don't want to talk about the effort needed to establish and maintain relationships. Especially work ones. If you get along well enough and the work gets done, well, that's that. It's also easy to not think about the effort when it works well because it just works. But the truth is that cultivating and maintaining really good collaborative relationships isn't easy. And it takes effort. If we want to be fancy, we can call it _The Art of Collaboration_.
+![Blurry example of comments on a figma file](https://photos.smugmug.com/photos/i-SMcSSkG/0/NDXNGSw9TJhQRMhgFgrcCTLRDBc2k9LcdV3mKMJDT/O/i-SMcSSkG.png) <small>_Comments left by a teammate "6 days ago"_</small>
 
-## "How to Work With Me"
+To avoid working solely in the comments section, I try to have working sessions with my product designers. Working together—remotely or in person—yields better discussions and decision making. The product designer will document questions and decisions in the file on my behalf. After a point, I noticed that the need to document certain decisions is enough to convince them to let me edit their files.
 
-I have to credit Sam for how much she's put in towards our friendship and collaboration. She makes it a point to get to know everyone she directly works with and I was no exception. Within weeks of joining Sam's team, we had regular 1:1s. We covered the usual topics--how we like to work, what was life before UX, how we best communicate, and so on. But these weren't your standard "get to know you" chats. Sam and I were doing a conversational version of the How to Work With Me document. [^1] [^2] [^3]
+Directly editing the file is the best outcome you can hope for because you can freely explore and iterate on ideas together. It's one of the fastest ways to see what works and what doesn't.
 
-We talked about:
+## Granted: Editing Permissions
 
-- How we worked: Did we prefer utter solitude and asynchronous time? Did we crave total collaboration and always synchronous? Or did we like a balance?
-- When we got into "the zone": Did it happen morning, midday, afternoon, or never?
-- Where did we like to work: Directly in the Figma files? Static documents? A combination?
-- What knowledge and experience do we have: What did we both share, and what could we teach each other?
+There are two ways I like to work when I have editing privileges. I either create a dedicated "content design" page or work right next to the designer's frames.
 
-And this isn't a one-time topic either. We regularly come back to these questions because people are dynamic. Priorities and projects change. Through constant reassessment of our partnership, we can continue to reach out to each other during scheduled meetings and ad-hoc design jams. We might not work directly on the same projects as before, but this open communication allows us to continue being the dynamic collaboration duo that we are.
+But first things first: I always ask my product designer where I can work. This establishes trust which is crucial in creative work.
 
-# Complement Each Other
+### Dedicated Content Page
 
-Sam and I don't emphasize our roles as product and content designers. We are UX designers with shared and specialized skills. We are solving the same design problem. A lot of our technical skills overlap, which makes working in Figma easier, but the exciting part of our collaboration happens in our discussions while we design. It's where our strengths play into each other and we learn from each other. I bring journalism/socio-psychology/marketing to the mix, and Sam comes with business acumen and real-world hospitality experience.
+A dedicated content page is exactly what it sounds like: A page in the file just for you, the content designer. You can name it whatever you want. I typically call mine Content Explorations. 
 
-I observe product designers go straight for the jugular of solving the problem. To balance out the sprint to designing, I slow things down a little. I get us thinking about the information we're piecing together. I can see what we're attempting to solve but what is the actual objective with the thing we're creating?
+![A dedicated content exploration page in a design file](https://photos.smugmug.com/photos/i-bd4HxgX/0/KjdNgMVScDnQ6LNsRRWVbdkZPhP48VqXPZx4ZMShZ/O/i-bd4HxgX.png) <small>_A dedicated "content exploration" page in a design file_</small>
 
-Tapping into OOUX, we do quick and dirty outlines of our primary objects, user roles, and actions. We then talk about the relationships between everything, sometimes mapping it out with arrows on more complex workflows. This helps us have a clearer picture of what the things are, and how a user interacts with that thing.
+A dedicated page gives you the space to iterate without interrupting a product designer's space. It also assuages any concerns product designers may have about someone messing up their designs. You can easily copy and paste frames onto your page and work asynchronously or together while retaining the original design.
 
-We also prioritize information and identify what's absolutely necessary and what's auxiliary. We talk about why a label works or doesn't work. We discuss the implications of specific terminology and check for audience fit. We borderline get philosophical. We have disagreements and argue with each other about design decisions--visual and content. It all leads to a near-harmonious working relationship that's resulted in many great designs.
+This setup is great for mid to long-term projects. It allows you to focus on just the areas you are working on, and to document your thoughts without space limitations. It's about getting your thoughts and ideas down, and having documentation to help drive content decisions that'll go into the final designs.
 
-![Skittles of sticky notes on a wall that shows some kind of affinity mapping. Photo by Hugo Rocha on Unsplash](https://images.unsplash.com/photo-1568219557405-376e23e4f7cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxM3x8dXglMjBkZXNpZ258ZW58MHx8fHwxNjk1NTg4NjYxfDA&ixlib=rb-4.0.3&q=80&w=1080)
-_(Photo by Hugo Rocha on Unsplash)_
+One thing you'll want to be aware of, though, is changing designs.
 
-# Trust
+When working in a separate page, you won't immediately see changes your product design partner is making. But it's also not feasible to copy and paste every visual update onto your page. What I typically do is make a note on my page where the visual structure may have changed. If the changes aren't drastic, as in, if the architecture of the layout hasn't changed, I'll just keep working as is. Once I'm done, I meet with my product designer to discuss, decide, and copy the final content into their designs. 
 
-Design is a vocation of the personally fraught alongside shared reward. We get to work independently with minimal guidance or work in a creative fishbowl. We are precious about our work, both design and writing. When this territoriality is left unchecked, we can fall into animosity and distrust. This makes working with others awkward, uncomfortable, and precarious. 
+The important thing to remember here is *communication*. There will be days you and the product designer are working asynchronously but always sync up to align on any changes before handing off your files.
 
-Of course, it doesn't have to be like this--even with peers you don't quite get on with. Once you break free from the limits of taking critique too personally, you can easily move into building trust. Critique, when done correctly, is an ego boost but also shows the skills and knowledge you have to your peers. 
+### Right Next to Your Product Designer
 
-Working with Sam is a continuous cycle of trust and open communication. When we have reservations or doubts about something we bring it up. We talk through critique while encouraging each other's efforts. Sam writes the first draft of nearly everything she designs, and I walk her through why things work as they are and how they can be improved. I teach her how to think about the words, language, and information in a way that can be scaled to all of the designs she works on. Sam reciprocates by teaching me how to use Figma to design elements for a larger product. By teaching me how to use Figma, Sam is comfortable with me editing in her files. By teaching her basics of writing, I trust her to do a great first draft. 
+Another way of working is on the same page as your product designer, right next to their frames.
 
-This is our design session. This is how we collaborate.
+![Example of doing content exploration right next to designer's frames](https://photos.smugmug.com/photos/i-xv5WkdV/0/L9WTGMkM9psbsRdsdr3hqbSDFmJD7q9z3dWZRLHWT/O/i-xv5WkdV.png) <small>_An example of doing content exploration next to designer's frame. Sorry about the blur._</small>
+
+I find that this is the easiest—and best—way to collaborate for a number of reasons.
+
+First, I don't have to worry about copy-pasting frames onto my own page. Since the visual references are right there, I only have to duplicate the text and do my iterations right next to the design itself. This is also great for your design partners because they can see how the content may impact the visuals, and real-time adjustments can be made via quick text swaps.
+
+Second, version control. If I want to iterate on the visuals, too, I can easily do that along with my text iterations. This means I'll duplicate the whole or part of the frame I'm working on, and create 2 to 3 versions to see how information flows. This mix of doing the content and product design allows my design partners and I to learn both aspects of design as a whole. Not to mention, these sessions have yielded better discussions and design decisions. 
+
+![Example of content iterations](https://photos.smugmug.com/photos/i-nk83Z9Q/0/Kjp2cbkDr5XphFhgPG63QSH5ZpMjDZRBHSKKNk5Jh/O/i-nk83Z9Q.png) <small>_Example of conten iterations next to a frame_</small>
+
+Third, productive design sessions. Working together usually results in better outcomes than when we work asynchronously. Sometimes we argue and other times it's nothing but agreements. Either way, it's fun to learn from each other and grow as designers.
+
+## Final Designs and Hand-off
+
+After all the design work comes the hand-off to developers. The designer looks over the visuals and signs off on it. But who actually updates the copy in the design file?
+
+It's important to always ask and confirm who will update the hand-off file. Early in my role, I often found that not confirming this final step resulted in the final product copy getting missed. As a result, we had unnecessary content revisits during the review stage which left some product managers and developers confused. 
+
+By talking to your product designer and deciding who updates the final content, you're adding a layer of accountability to your design process.
+
+In my projects, the product designers usually take this responsibility because it becomes part of their final check list before handing off the design to developers. There have been times where I added the final copy before hand-off but that's uncommon. For some product designers, doing this final step keeps them in control of their designs. While I'm comfortable working in Figma, I found that having the designer do the final step maintains a degree of trust and signals a respect for their domain of responsibility.
+
+## Figma Template
+
+![Cover image for my content design working space template](https://photos.smugmug.com/photos/i-ZLm3HB6/0/MnKRvKP88HrR2CSZDZb3mDtbwZ4HS5HQdMXjMdhzd/O/i-ZLm3HB6.png) <small>_The cover to my shared template. [It's available in the Figma community](https://www.figma.com/community/file/1449904718154872029/workspace-template-for-content-design)_</small>
+
+To help content designers organize their work in Figma, [I've created a template that you can use in your own content design work](https://www.figma.com/community/file/1449904718154872029/workspace-template-for-content-design). The components and layouts are similar to the ones I use in my own content design work. I made them after a year of working with different designers and learning how they organize and work in their files. Everyone organizes their files differently but if there's one thing I've learned, it's that everyone appreciates the *organization*. 
+
+The template is available in the Figma Community. You can adapt it and modify it to how you design. Some of my content designers have adapted this framework and modified it to fit their working styles to great effect. 
+
+If you do use the template, let me know how it's helped you and what kind of modifications you've made to fit your specific working style.
 
 -30-
-
----
-
-[^1]: Maymin, S. (2020, July 21). _[The “How to Work with Me” Document](https://www.linkedin.com/pulse/how-work-me-document-senia-maymin/)_ 
-[^2]: Manual of Me. _[How do I create a ‘How to Work With Me’ document?: Part 1: Agree its Purpose.](https://www.manualof.me/support/articles/how-to-create-a-working-with-me-template-step-one)_ 
-[^3]: Marko Saric. (2018, October 17). _[Why you should write a "how to work with me" user manual](https://medium.com/swlh/user-manual-to-me-92c8ce68f960)_ 
