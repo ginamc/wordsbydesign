@@ -13,11 +13,7 @@ params:
     - posts
   showShareButtons: true
   ShareButtons: ["linkedin", "reddit", "x"]
-
-services:
-  googleAnatlyics:
-    ID: G-XKYB79H688
-  
+ 
   assets:
     favicon: "assets/favicon.ico"
     favicon16x16: "assets/favicon-16x16.png"
@@ -87,4 +83,6 @@ markup:
     renderer:
       hardWraps: false
       unsafe: true # <- this enables HTML rendering
-
+services:
+  googleAnalytics:
+    ID: G-XKYB79H688
