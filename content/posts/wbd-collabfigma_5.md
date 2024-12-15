@@ -1,6 +1,6 @@
 ---
 title: "How a content designer collaborates in Figma"
-summary: "What does it look like for content and product designer to work together?"
+summary: "What does it look like for content and product designers to work together?"
 date: 2024-12-14
 slug: content-collab-figma
 draft: false
@@ -28,7 +28,7 @@ tags:
 ---
 _What I describe here isn't a rigid process, nor is it a set of rules that I believe should be followed. It is, rather, a way of working that might help you collaborate better with your product design colleagues (or anyone, really)._
 
-What does it look like for content and product designer to work together? I'm going to share with you how I—a content designer—work in Figma with my product designers.
+What does it look like for content and product designers to work together? I'm going to share with you how I—a content designer—work in Figma with my product designers.
 
 ## Set Boundaries
 
