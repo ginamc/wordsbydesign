@@ -16,11 +16,11 @@ tags:
 - content design
 - figma
 - template
-# cover:
-  # image: "https://images.unsplash.com/photo-1586936893354-362ad6ae47ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzfHx1c2VyJTIwZXhwZXJpZW5jZXxlbnwwfHx8fDE2OTU1ODg5OTl8MA&ixlib=rb-4.0.3&q=80&w=1080"
+cover:
+  image: "https://images.unsplash.com/photo-1648854006531-361649aa182c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-  # alt: "Photo by UX Indonesia on Unsplash"
+  alt: "Photo by Zac Wolff on Unsplash"
   # caption: "Photo by UX Indonesia on Unsplash"
   # relative: false # To use relative path for cover image, used in hugo Page-bundles
 
