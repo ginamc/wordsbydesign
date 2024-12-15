@@ -108,9 +108,9 @@ In my projects, the product designers usually take this responsibility because i
 
 ## Figma Template
 
-![Cover image for my content design working space template](https://photos.smugmug.com/photos/i-ZLm3HB6/0/MnKRvKP88HrR2CSZDZb3mDtbwZ4HS5HQdMXjMdhzd/O/i-ZLm3HB6.png) <small>_The cover to my shared template. [It's available in the Figma community](https://www.figma.com/community/file/1449904718154872029/workspace-template-for-content-design)_</small>
+![Cover image for my content design working space template](https://photos.smugmug.com/photos/i-ZLm3HB6/0/MnKRvKP88HrR2CSZDZb3mDtbwZ4HS5HQdMXjMdhzd/O/i-ZLm3HB6.png) <small>_The cover to my shared template. [It is available in the Figma community](https://www.figma.com/community/file/1449904718154872029/workspace-template-for-content-design)_</small>
 
-To help content designers organize their work in Figma, [I've created a template that you can use in your own content design work](https://www.figma.com/community/file/1449904718154872029/workspace-template-for-content-design). The components and layouts are similar to the ones I use in my own content design work. I made them after a year of working with different designers and learning how they organize and work in their files. Everyone organizes their files differently but if there's one thing I've learned, it's that everyone appreciates the *organization*. 
+To help content designers organize their work in Figma, [I created a template that you can use in your own content design work](https://www.figma.com/community/file/1449904718154872029/workspace-template-for-content-design). The components and layouts are similar to the ones I use in my own content design work. I made them after a year of working with different designers and learning how they organize and work in their files. Everyone organizes their files differently but if there's one thing I've learned, it's that everyone appreciates the *organization*. 
 
 The template is available in the Figma Community. You can adapt it and modify it to how you design. Some of my content designers have adapted this framework and modified it to fit their working styles to great effect. 
 
