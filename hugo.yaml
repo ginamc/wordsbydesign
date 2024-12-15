@@ -13,6 +13,10 @@ params:
     - posts
   showShareButtons: true
   ShareButtons: ["linkedin", "reddit", "x"]
+
+services:
+  googleAnatlyics:
+    ID: G-XKYB79H688
   
   assets:
     favicon: "assets/favicon.ico"
