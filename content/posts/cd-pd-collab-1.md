@@ -1,23 +1,16 @@
 ---
 title: "How a content designer collaborates with a product designer"
-summary: "There's no right way to do it but maybe this will help."
+description: "There's no right way to do it but maybe this will help."
 date: 2023-09-26
 slug: content-product-design-collab
 draft: false
-ShowToc: true
-params:
-    author: Gina
-    ShowReadingTime: true
-    ShowShareButtons: true
-    ShareButtons: ["reddit", "linkedin", "x", "whatsapp"]
-    ShowPostNavLinks: true
+# ShowToc: true
 tags:
 - collaboration
-cover:
-  image: "https://images.unsplash.com/photo-1586936893354-362ad6ae47ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzfHx1c2VyJTIwZXhwZXJpZW5jZXxlbnwwfHx8fDE2OTU1ODg5OTl8MA&ixlib=rb-4.0.3&q=80&w=1080"
-  # can also paste direct link from external site
-  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-  alt: "Photo by UX Indonesia on Unsplash"
+# image: "https://images.unsplash.com/photo-1586936893354-362ad6ae47ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzfHx1c2VyJTIwZXhwZXJpZW5jZXxlbnwwfHx8fDE2OTU1ODg5OTl8MA&ixlib=rb-4.0.3&q=80&w=1080"
+#   # can also paste direct link from external site
+#   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+# imageAltAttribute: "Photo by UX Indonesia on Unsplash"
   # caption: "Photo by UX Indonesia on Unsplash"
   # relative: false # To use relative path for cover image, used in hugo Page-bundles
 

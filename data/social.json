@@ -12,8 +12,18 @@
     },
     {
       "name": "linkedin",
-      "url": "https://www.linkedin.com/in/gmcairney/",
+      "url": "https://www.linkedin.com/in/gmcairney",
       "image": "images/social/linkedin.svg"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/@postsbygina",
+      "image": "images/social/medium.svg"
+    },
+    {
+      "name": "substack",
+      "url": "https://substack.com/@postsbygina",
+      "image": "images/social/substack.svg"
     }
   ]
 }

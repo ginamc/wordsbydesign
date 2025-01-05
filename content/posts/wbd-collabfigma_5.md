@@ -1,26 +1,19 @@
 ---
 title: "How a content designer collaborates in Figma"
-summary: "What does it look like for content and product designers to work together?"
+description: "What does it look like for content and product designers to work together?"
 date: 2024-12-14
 slug: content-collab-figma
 draft: false
-ShowToc: true
-params:
-    author: Gina
-    ShowReadingTime: false
-    ShowShareButtons: true
-    ShareButtons: ["linkedin", "reddit", "x"]
-    ShowPostNavLinks: true
+# ShowToc: true
 tags:
 - collaboration
 - content design
 - figma
 - template
-cover:
-  image: "https://images.unsplash.com/photo-1648854006531-361649aa182c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+image: "https://images.unsplash.com/photo-1648854006531-361649aa182c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-  alt: "Photo by Zac Wolff on Unsplash"
+imageAltAttribute: "Photo by Zac Wolff on Unsplash"
   # caption: "Photo by UX Indonesia on Unsplash"
   # relative: false # To use relative path for cover image, used in hugo Page-bundles
 

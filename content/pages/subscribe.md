@@ -1,5 +1,6 @@
 ---
 title: "Subscribe"
+url: "/subscribe/"
 date: 
 ---
 
@@ -7,15 +8,15 @@ date:
 <style>
     input[type="email"],
     input[type="text"] {
-        border: 2px solid #8e44ad;
+        border: 2px solidrgb(22, 22, 22);
         border-radius: 6px; 
         padding: 8px 16px;
         width: 45%;
-        background-color:  #f4ecf7;
+        background-color:rgb(255, 255, 255);
     }
     input[type="submit"] {
         border-radius: 6px;
-        background-color: #8e44ad;
+        background-color:rgb(20, 20, 20);
         padding: 16px;
         font-weight: medium;
         color: white;
@@ -24,10 +25,13 @@ date:
 </style>
 </head>
 <body>
+Get new posts directly in your inbox. You can also find me on <a href="https://medium.com/@postsbygina">Medium</a> and <a href="https://substack.com/@postsbygina">Substack</a>.
+
+
 <form method="post" action="https://wbd.pikapod.net/subscription/form" class="listmonk-form">
           <div>
           <!--<h3>Subscribe</h3> redundant with page title -->
-          <span>A UX content designer's learnings and musings straight to your inbox.</span>
+          <!-- <span>A UX content designer's learnings and musings straight to your inbox.</span> -->
           <p></p>
           <input type="hidden" name="nonce" />
           <p><label for="email">Email</label></p>

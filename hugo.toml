@@ -1,0 +1,71 @@
+baseURL = 'https://wordsbydesign.co'
+languageCode = 'en-us'
+theme = 'winston'
+themesDir = "themes"
+title = "Gina C. | UX Content Designer - Writer - Strategist"
+pagination.pagerSize = 3
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+[params]
+  # google_analytics_id = ""
+  twitter_handle = "@ginamc"
+  showAuthorOnHomepage = false
+  showAuthorOnPosts = false
+  showIntroContentOnHomepage = true
+  showPostsOnHomepage = true
+  usePaginationOnHomepage = false
+  limitPostsOnHomepage = 3 # only used if usePaginationOnHomepage is false
+  sortPostsByDateOldestFirst = false
+  addDot = true
+  addFrame = true
+  highlightColor = '#a47764'
+  baseColor = "#ffffff"
+  baseOffsetColor = "#eaeaea"
+  headingColor = "#1c1b1d"
+  textColor = "#4e5157"
+  dotColor = "#a47764"
+  enableGoogleFonts = true 
+  googleFontsUrl = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
+  fontFamilyHeading = "Poppins"
+  fontFamilyParagraph = "Helvetica"
+  fontFamilyMonospace = "monospace"
+
+# markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+      linkify = true
+      
+      
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = "Archive"
+    identifier = "posts"
+    weight = 2
+    url = "/posts/"
+  [[menu.main]]
+    name = "Tags"
+    identifier = "tags"
+    weight = 3
+    url = "/tags/"
+  [[menu.main]]
+    name = "Subscribe"
+    identifier = "subscribe"
+    weight = 4
+    url = "/subscribe/"
