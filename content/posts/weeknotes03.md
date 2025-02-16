@@ -5,8 +5,8 @@ date: 2025-01-27
 slug: weeknotes-03
 draft: true
 # ShowToc: true
-tags:
-- weeknotes
+# tags:
+
 image: "/images/weeknote-kelly-sikkema-mdADGzyXCVE-unsplash.jpg"
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
