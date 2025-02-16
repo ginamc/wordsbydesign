@@ -3,7 +3,7 @@ title: "Weeknotes 01"
 description: "Week of Dec. 30, 2024 - The changing of the year"
 date: 2025-01-03
 slug: weeknotes-01
-draft: false
+draft: true
 # ShowToc: true
 tags:
 - weeknotes

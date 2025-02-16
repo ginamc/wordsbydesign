@@ -3,7 +3,7 @@ title: "Weeknotes 03"
 description: "Week of Jan. 27, 2025 - I was an award finalist"
 date: 2025-01-27
 slug: weeknotes-03
-draft: false
+draft: true
 # ShowToc: true
 tags:
 - weeknotes

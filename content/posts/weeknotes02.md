@@ -3,7 +3,7 @@ title: "Weeknotes 02"
 description: "Week of Jan. 6, 2025 - Laryngitis takes spotlight"
 date: 2025-01-06
 slug: weeknotes-02
-draft: false
+draft: true
 # ShowToc: true
 tags:
 - weeknotes
