@@ -3,9 +3,9 @@ title: "Weeknotes 02"
 description: "Week of Jan. 6, 2025 - Laryngitis takes spotlight"
 date: 2025-01-06
 slug: weeknotes-02
-draft: true
+draft: false
 # ShowToc: true
-# tags:
+tags: weeknotes
 image: "/images/weeknote-kelly-sikkema-mdADGzyXCVE-unsplash.jpg"
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png

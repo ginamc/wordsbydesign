@@ -3,9 +3,9 @@ title: "Weeknotes 03"
 description: "Week of Jan. 27, 2025 - I was an award finalist"
 date: 2025-01-27
 slug: weeknotes-03
-draft: true
+draft: false
 # ShowToc: true
-# tags:
+tags: weeknotes
 
 image: "/images/weeknote-kelly-sikkema-mdADGzyXCVE-unsplash.jpg"
   # can also paste direct link from external site

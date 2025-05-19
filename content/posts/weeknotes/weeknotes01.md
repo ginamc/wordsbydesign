@@ -3,9 +3,9 @@ title: "Weeknotes 01"
 description: "Week of Dec. 30, 2024 - The changing of the year"
 date: 2025-01-03
 slug: weeknotes-01
-draft: true
+draft: false
 # ShowToc: true
-# tags:
+tags: weeknotes
 image: "/images/weeknote-kelly-sikkema-mdADGzyXCVE-unsplash.jpg"
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
