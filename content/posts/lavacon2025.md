@@ -3,7 +3,7 @@ title: "See you at LavaCon"
 description: "I'm co-facilitating a workshop at LavaCon!"
 date: 2025-03-31
 slug: lavacon-2025
-draft: false
+draft: true
 # ShowToc: true
 tags:
 - learnings
