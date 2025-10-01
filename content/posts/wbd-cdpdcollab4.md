@@ -74,6 +74,6 @@ Content designers, reach out to your product designers. Ask what's going on. Ask
 <sup>-30-</sup>
 
 
-[^1]: [*How a content designer collaborates with a product designer*](https://wordsbydesign.co/posts/content-product-design-collab/), 2024.
-[^2]: [*How a content designer collaborates in Figma*](https://wordsbydesign.co/posts/content-collab-figma/), 2023.
+[^1]: [How a content designer collaborates with a product designer](https://wordsbydesign.co/posts/content-product-design-collab/), 2024.
+[^2]: [How a content designer collaborates in Figma](https://wordsbydesign.co/posts/content-collab-figma/), 2023.
 [^3]: For simplicity, I'm using 'Content Designer' to also mean 'UX Writer' and any other product writing roles.
