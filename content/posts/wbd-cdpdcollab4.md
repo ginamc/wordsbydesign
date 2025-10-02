@@ -73,6 +73,8 @@ Content designers, reach out to your product designers. Ask what's going on. Ask
 
 <sup>-30-</sup>
 
+<sup> [This post is syndicated on Bootcamp](https://medium.com/design-bootcamp/when-and-how-to-engage-a-content-designer-f027f814caa7)</sup>
+
 
 [^1]: [How a content designer collaborates with a product designer](https://wordsbydesign.co/posts/content-product-design-collab/), 2024.
 [^2]: [How a content designer collaborates in Figma](https://wordsbydesign.co/posts/content-collab-figma/), 2023.
