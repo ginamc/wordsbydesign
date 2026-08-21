@@ -1,0 +1,34 @@
+---
+title: "Weeknote: August 21, 2026"
+description: "Trying to catch my breath."
+date: 2026-08-21
+slug: weeknotes-20260821
+draft: true
+# ShowToc: true
+tags:
+- weeknotes
+image: "/images/annie-spratt-prh25nRZXog-unsplash.svg"
+  # can also paste direct link from external site
+  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+imageAltAttribute: "Six colorful emoji faces depicting different emotions. Illustration by Annie Spratt on Unsplash."
+  # caption: "Photo by UX Indonesia on Unsplash"
+  # relative: false # To use relative path for cover image, used in hugo Page-bundles
+---
+
+## What was good
+- My team continues to interview for an open role. Met a few candidates, went over their portfolios, discussed strategic impact, stakeholder management, and the good stuff one asks about for a lead level role. Those conversations were enjoyable.
+- One of my junior content designers, I'll refer to her as SO, did a fantastic job of quickly turning out a design style guide for product emails. I helped throw in some placeholders as a scaffold but I feel like she didn't need any of it. Our combined efforts were impressive and meeting with the Senior Director to get their feedback went really well. SO owned that review session. She put the final touches on the specs today and we delivered it to the engineers. With this immediate request done, we can move onto the other parts of this email project which I'm excited about. 
+- After a delayed start, my wee book club wrapped up its 3rd week of Catt Small's *The Staff Designer* (Rosenfeld, 2025). It's a small group of more senior UX designers and a manager, and so far, the group has been lovely. It's cathartic and comforting to know that people, even those within your own organization, struggle with the same things but no one really voices them... probably because we don't really have the explicit power to change something like a 20+ year-old business organization. We are tiny ants in comparison.  
+
+## What was hard
+- All I can think of are the multiple days of back-to-back meetings this week but it did ease up by the end of the week.
+- Wrapping my head around this huge product email project. I'd like to think it's pretty straight forward--and it probably is--but the logistics of it was taking a vice grip on my mind. The project right now has three parallel tracks going on right now. Some of which I have some control but the other, not so much. The project itself isn't new to me. I tried to kick this off last year with no success but the current state of things makes it a prime opportunity to get the project moving forward so I'm taking advantage of that momentum. I'm definitely learning quite a bit about wrangling disparate sources of information, figuring out points of contact, and holding project collaborators accountable.
+- Watching someone struggle with a project and not scooping up to give them the exact instructions to succeed. I'm at that weird place where I am not just mentoring but also guiding others through ideas, explorations, and iterations, to listen to them and offer comment and feedback without telling them what to do. It's painful.
+
+## What I'm looking forward to next week
+- My calendar seems chill. For now.
+- SO and I will likely continue building out the design patterns for product emails, creating components, and packaging it so we can contribute it back to the Design System team. That'll be a sweet achievement.
+
+## Tidbits
+- I'm part of Catt Small's The Staff Designer cohort on Maven. It was serrendipitous to be part of the cohort *and* reading the book. It's been a nice reinforcement loop to have these two groups of people to talk to about the same topic and getting differing perspectives.
+- [Being Glue](https://www.noidea.dog/glue) hit a small nerve in my elbow.
