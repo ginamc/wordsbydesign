@@ -11,7 +11,7 @@ pygmentsUseClasses = true
 [module]
   [module.hugoVersion]
     extended = true
-    min = "0.156.0"
+    min = "0.165.0"
 
 [params]
   # google_analytics_id = ""
