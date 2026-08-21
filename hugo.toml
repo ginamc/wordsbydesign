@@ -11,11 +11,11 @@ pygmentsUseClasses = true
 [module]
   [module.hugoVersion]
     extended = true
-    min = "0.55.0"
+    min = "0.156.0"
 
 [params]
   # google_analytics_id = ""
-  twitter_handle = "@ginamc"
+  # twitter_handle = "@ginamc"
   showAuthorOnHomepage = false
   showAuthorOnPosts = false
   showIntroContentOnHomepage = true
@@ -34,7 +34,7 @@ pygmentsUseClasses = true
   enableGoogleFonts = true 
   googleFontsUrl = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
   fontFamilyHeading = "Poppins"
-  fontFamilyParagraph = "Helvetica"
+  fontFamilyParagraph = "monospace"
   fontFamilyMonospace = "monospace"
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
@@ -44,6 +44,7 @@ pygmentsUseClasses = true
       hardWraps = false
       unsafe = true
       xhtml = false
+    [markup.goldmark.extensions]
       linkify = true
       
       
