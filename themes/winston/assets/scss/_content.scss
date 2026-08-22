@@ -18,7 +18,7 @@ p {
   color: var(--text-color);
   font-family: var(--font-family-paragraph);
   font-size: 18px;
-  line-height: 24px;
+  line-height: 28px;
 }
 
 ol,
@@ -90,7 +90,7 @@ ul {
     margin-bottom: 20px;
     li {
       font-size: 18px;
-      line-height: 20px;
+      line-height: 28px;
       margin-bottom: 10px;
       margin-left: 0;
       @include breakpoint('small') {
